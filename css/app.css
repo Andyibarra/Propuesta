@@ -1,4 +1,4 @@
-body{
-	background-image: url("img/bg.jpg") no-repeat;
-	background-size: contain;
+.bd{
+	background-image: url(/img/bg.png) no-repeat;
+	background-size: 100%;
 }
